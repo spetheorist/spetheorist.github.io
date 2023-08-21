@@ -4,8 +4,8 @@ main:
      url: /main/
    - title: "미시경제학"
      url: /micro/
-   - title: "미시경제학"
-     url: /micro/
+   - title: "경제수학"
+     url: /math/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"
