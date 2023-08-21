@@ -1,7 +1,7 @@
 # main links
 main:
-   - title: "Home"
-     url: /main/
+  # - title: "Home"
+  #   url: /main/
    - title: "미시경제학"
      url: /micro/
    - title: "경제수학"
