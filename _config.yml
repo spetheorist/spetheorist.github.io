@@ -107,7 +107,7 @@ author:
   name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : ""
+  location         : "대한민국, 서울"
   email            : spetheorist@email.com
   links:
     - label: "Email"
