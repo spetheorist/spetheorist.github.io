@@ -20,31 +20,31 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "경제학"
     url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "누구인가"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  #- title: "Sample Posts"
+  #  url: /year-archive/
+  #- title: "Sample Collections"
+  #  url: /collection-archive/
+  #- title: "Terms &amp; Privacy Policy"
+  #  url: /terms/
 
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: 경제학
     children:
-      - title: "Quick-Start Guide"
+      - title: "미시경제학"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "거시경제학"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "경제수학"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "정의론"
         url: /docs/upgrading/
-  - title: Customization
+  - title: 미시경제학
     children:
       - title: "Configuration"
         url: /docs/configuration/
@@ -58,7 +58,7 @@ docs:
         url: /docs/authors/
       - title: "Layouts"
         url: /docs/layouts/
-  - title: Content
+  - title: 거시경제학
     children:
       - title: "Working with Posts"
         url: /docs/posts/
@@ -70,13 +70,13 @@ docs:
         url: /docs/helpers/
       - title: "Utility Classes"
         url: /docs/utility-classes/
-  - title: Extras
+  - title: 경제수학
     children:
       - title: "Stylesheets"
         url: /docs/stylesheets/
       - title: "JavaScript"
         url: /docs/javascript/
-  - title: Meta
+  - title: 정의론
     children:
       - title: "History"
         url: /docs/history/
