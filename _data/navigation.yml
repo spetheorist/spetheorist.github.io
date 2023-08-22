@@ -22,8 +22,8 @@ foo:
 main:
   - title: "경제학"
     url: /docs/quick-start-guide/
-  - title: "누구인가"
-    url: /about/
+  #- title: "누구인가"
+  #  url: /about/
   #- title: "Sample Posts"
   #  url: /year-archive/
   #- title: "Sample Collections"
