@@ -10,12 +10,12 @@ remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Moderate Talk, not Cheap"
 title_separator          : "-"
-subtitle                 : "A Jekyll theme"
-name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+subtitle                 : "경제학을 꿈꾸는 블로그"
+name                     : "Seoksa KIM" # &name is a YAML anchor which can be *referenced later
+description              :    
 url                      : https://seoksakim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "seoksakim"
@@ -97,10 +97,10 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  name             :  # Seoksa KIM
   avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  bio              :  
+  location         : "대한민국, 서울"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
