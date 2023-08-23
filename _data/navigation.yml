@@ -20,8 +20,14 @@ foo:
 
 # main links
 main:
-  - title: "경제학"
-    url: /docs/quick-start-guide/
+   - title: "미시경제학"
+     url: /docs/quick-start-guide/
+   - title: "거시경제학"
+     url: /docs/structure/
+   - title: "경제수학"
+     url: /docs/installation/
+   - title: "정의론"
+     url: /docs/upgrading/
   #- title: "누구인가"
   #  url: /about/
   #- title: "Sample Posts"
@@ -34,16 +40,12 @@ main:
 
 # documentation links
 docs:
-  - title: 경제학
+  - title: 들어가며
     children:
-      - title: "미시경제학"
+      - title: "경제학이란? "
         url: /docs/quick-start-guide/
-      - title: "거시경제학"
+      - title: "참고문헌"
         url: /docs/structure/
-      - title: "경제수학"
-        url: /docs/installation/
-      - title: "정의론"
-        url: /docs/upgrading/
   - title: 미시경제학
     children:
       - title: "Configuration"
