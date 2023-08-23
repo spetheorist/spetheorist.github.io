@@ -1,15 +1,14 @@
 # main links
 main:
    - title: "반복게임"
-     url: /docs/micro/
+     url: /docs/repeated/
    - title: "효용함수"
-     url: /docs/macro/
-   - title: "양면시장"
-     url: /docs/math/
-   - title: "시스템리스크"
-     url: /docs/math/
-   - title: "GEI, bubble"
-     url: /docs/math/
+     url: /docs/utility/
+   - title: "GEI"
+     url: /docs/gei/
+   - title: "Bubble"
+     url: /docs/bubble/
+
 
 # documentation links
 docs:
