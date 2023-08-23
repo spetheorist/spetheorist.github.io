@@ -34,6 +34,12 @@ docs:
     children:
       - title: "거시경제학이란?"
         url: /docs/macro/
+      - title: "성장모형"
+        url: /docs/growth/
+      - title: "RANK"
+        url: /docs/nk/
+      - title: "TANK, HANK"
+        url: /docs/nkmore/
   - title: 경제수학
     children:
       - title: "경제수학이란?"
