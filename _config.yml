@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             :  Seoksa KIM
-  avatar           : "/assets/logo.jpg"
+  avatar           : "/assets/logo.png"
   bio              : "석사킴은 독학 중이다" 
   location         : "대한민국, 서울"
   links:
