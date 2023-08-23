@@ -4,10 +4,12 @@ main:
      url: /docs/micro/
    - title: "효용함수"
      url: /docs/macro/
-   - title: "우자와 정리"
+   - title: "양면시장"
      url: /docs/math/
-
-
+   - title: "시스템리스크"
+     url: /docs/math/
+   - title: "GEI, bubble"
+     url: /docs/math/
 
 # documentation links
 docs:
