@@ -1,13 +1,12 @@
 # main links
 main:
-   - title: "미시경제학"
+   - title: "반복게임"
      url: /docs/micro/
-   - title: "거시경제학"
+   - title: "효용함수"
      url: /docs/macro/
-   - title: "경제수학"
+   - title: "우자와 정리"
      url: /docs/math/
-   - title: "정의론"
-     url: /docs/justice/
+
 
 
 # documentation links
