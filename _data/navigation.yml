@@ -1,23 +1,3 @@
-# example navigation
-foo:
-  - title: "Parent Link 1"
-    url: /parent-1-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-  - title: "Parent Link 2"
-    url: /parent-2-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-      - title: "Child Link 3"
-        url: /child-3-page-url/
-
-
 # main links
 main:
    - title: "미시경제학"
@@ -28,14 +8,6 @@ main:
      url: /docs/math/
    - title: "정의론"
      url: /docs/justice/
-  #- title: "누구인가"
-  #  url: /about/
-  #- title: "Sample Posts"
-  #  url: /year-archive/
-  #- title: "Sample Collections"
-  #  url: /collection-archive/
-  #- title: "Terms &amp; Privacy Policy"
-  #  url: /terms/
 
 
 # documentation links
@@ -133,3 +105,23 @@ sidebar-sample:
         url: /
       - title: "Child Page D2"
         url: /
+
+
+# example navigation
+foo:
+  - title: "Parent Link 1"
+    url: /parent-1-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+  - title: "Parent Link 2"
+    url: /parent-2-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+      - title: "Child Link 3"
+        url: /child-3-page-url/
