@@ -22,46 +22,28 @@ docs:
     children:
       - title: "미시경제학이란?"
         url: /docs/micro/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "소비자이론"
+        url: /docs/consumer/
+      - title: "기업이론"
+        url: /docs/firm/
+      - title: "일반균형이론"
+        url: /docs/general-equilibrium/
+      - title: "마켓디자인"
+        url: /docs/market-design/
   - title: 거시경제학
     children:
       - title: "거시경제학이란?"
         url: /docs/macro/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
   - title: 경제수학
     children:
       - title: "경제수학이란?"
         url: /docs/math/
-      - title: "JavaScript"
-        url: /docs/javascript/
   - title: 정의론
     children:
       - title: "정의론이란?"
         url: /docs/justice/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
+
+
 
 # sidebar navigation list sample
 sidebar-sample:
