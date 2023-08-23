@@ -11,14 +11,14 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Moderate Talk, not Cheap"
+title                    : "경제학노트"
 title_separator          : "-"
-subtitle                 : "경제학을 꿈꾸는 블로그"
-name                     : "Seoksa KIM" # &name is a YAML anchor which can be *referenced later
+subtitle                 : ""
+name                     : "Social Philosopher / Economic Theorist" # &name is a YAML anchor which can be *referenced later
 description              :    
-url                      : https://seoksakim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://spetheorist.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
-repository               : "seoksakim"
+repository               : "spetheorist"
 teaser                   : "/assets/logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -91,15 +91,15 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : # Replace this with your ID, or delete
     anonymize_ip         : true
 
 
 # Site Author
 author:
-  name             :  Seoksa KIM
+  name             :  Social Philosopher / Economic Theorist
   avatar           : "/assets/logo.png"
-  bio              : "석사킴은 독학 중이다" 
+  bio              : "" 
   location         : "대한민국, 서울"
   links:
    # - label: "Made Mistakes"
@@ -121,7 +121,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:seoksakim@email.com"
+      url: "mailto:spetheorist@email.com"
    # - label: "GitHub"
    #   icon: "fab fa-fw fa-github"
    #   url: "https://github.com/mmistakes"
