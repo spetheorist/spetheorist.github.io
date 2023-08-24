@@ -1,12 +1,12 @@
 # main links
 main:
-   - title: "반복게임"
-     url: /docs/repeated/
    - title: "효용함수"
      url: /docs/utility/
-   - title: "GEI"
+   - title: "반복게임"
+     url: /docs/repeated/
+   - title: "불완비시장"
      url: /docs/gei/
-   - title: "Bubble"
+   - title: "버블모형"
      url: /docs/bubble/
 
 
