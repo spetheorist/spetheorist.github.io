@@ -15,25 +15,25 @@ main:
 docs:
   - title: 효용함수 
     children:
-      - title: "기본모형"
+      - title: "폰노이만-모겐스턴 효용함수"
         url: /docs/utility/
       - title: "논의할 논문"
         url: /docs/utility-paper/
   - title: 반복게임 
     children:
-      - title: "기본모형"
+      - title: "기본적 구전정리"
         url: /docs/repeated/
       - title: "논의할 논문"
         url: /docs/repeated-paper/
   - title: 불완비시장 
     children:
-      - title: "기본모형"
+      - title: "파레토 비최적 균형"
         url: /docs/gei/
       - title: "논의할 논문"
         url: /docs/gei-paper/
   - title: 버블모형 
     children:
-      - title: "기본모형"
+      - title: "합리적 버블"
         url: /docs/bubble/
       - title: "논의할 논문"
         url: /docs/bubble-paper/
