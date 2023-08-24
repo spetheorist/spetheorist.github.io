@@ -21,7 +21,7 @@ docs:
         url: /docs/utility-paper1/
   - title: 반복게임 
     children:
-      - title: "기본적 구전정리"
+      - title: "구전정리들"
         url: /docs/repeated/
       - title: "Sugaya (2022)"
         url: /docs/repeated-paper1/
