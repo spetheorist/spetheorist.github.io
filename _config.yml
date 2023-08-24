@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "경제학노트"
+title                    : "중급 미시경제학 이론 노트"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "Social Philosopher / Economic Theorist" # &name is a YAML anchor which can be *referenced later
