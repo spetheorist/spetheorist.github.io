@@ -17,25 +17,25 @@ docs:
     children:
       - title: "폰노이만-모겐스턴 효용함수"
         url: /docs/utility/
-      - title: "논의할 논문"
-        url: /docs/utility-paper/
+      - title: "Epstein-Zin (1989)"
+        url: /docs/utility-paper1/
   - title: 반복게임 
     children:
       - title: "기본적 구전정리"
         url: /docs/repeated/
-      - title: "논의할 논문"
-        url: /docs/repeated-paper/
+      - title: "Sugaya (2022)"
+        url: /docs/repeated-paper1/
   - title: 불완비시장 
     children:
       - title: "파레토 비최적 균형"
         url: /docs/gei/
-      - title: "논의할 논문"
+      - title: "Dubey & Geanakoplos (1989)"
         url: /docs/gei-paper/
   - title: 버블모형 
     children:
       - title: "합리적 버블"
         url: /docs/bubble/
-      - title: "논의할 논문"
+      - title: "Farhi & Tirole (2012)"
         url: /docs/bubble-paper/
   - title: 기타 
     children:
