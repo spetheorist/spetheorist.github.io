@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             :  Social Philosopher / Economic Theorist
-  avatar           : "/assets/logo.png"
+  avatar           : "/assets/pic1.jpg"  # "/assets/logo.png"
   bio              : "" 
   location         : "대한민국, 서울"
   links:
