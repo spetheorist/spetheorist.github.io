@@ -23,11 +23,11 @@ docs:
         url: /docs/utility-paper2/
   - title: 반복게임 
     children:
-      - title: "구전정리들"
+     - title: "구전정리들"
         url: /docs/repeated/
      - title: "Matsushima (2004)"
         url: /docs/repeated-paper1/
-      - title: "Sugaya (2022)"
+     - title: "Sugaya (2022)"
         url: /docs/repeated-paper2/
   - title: 불완비시장 
     children:
