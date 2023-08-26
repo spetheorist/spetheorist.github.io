@@ -17,26 +17,34 @@ docs:
     children:
       - title: "폰노이만-모겐스턴 효용함수"
         url: /docs/utility/
-      - title: "Epstein-Zin (1989)"
+      - title: "Epstein & Zin (1989)"
         url: /docs/utility-paper1/
+      - title: "Bommier, Kochov, & Le Grand (2017)"
+        url: /docs/utility-paper2/
   - title: 반복게임 
     children:
       - title: "구전정리들"
         url: /docs/repeated/
-      - title: "Sugaya (2022)"
+     - title: "Matsushima (2004)"
         url: /docs/repeated-paper1/
+      - title: "Sugaya (2022)"
+        url: /docs/repeated-paper2/
   - title: 불완비시장 
     children:
       - title: "파레토 비최적 균형"
         url: /docs/gei/
-      - title: "Dubey & Geanakoplos (1989)"
+      - title: "Dubey, Geanakoplos & Shubik (2005)"
         url: /docs/gei-paper/
+      - title: "Teeple (2022)"
+        url: /docs/gei-paper2/
   - title: 버블모형 
     children:
       - title: "합리적 버블"
         url: /docs/bubble/
-      - title: "Farhi & Tirole (2012)"
+      - title: "Tirole (1985)"
         url: /docs/bubble-paper/
+      - title: "Farhi & Tirole (2012)"
+        url: /docs/bubble-paper2/
   - title: 기타 
     children:
       - title: "한국인 이론경제학자들"
