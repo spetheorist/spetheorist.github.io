@@ -10,6 +10,8 @@ main:
      url: /docs/bubble/
    - title: "기타"
      url: /docs/etc/
+   - title: "블로그"
+    url: /year-archive/
 
 # documentation links
 docs:
